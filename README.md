@@ -8,3 +8,4 @@
 <br>
 <br>
 <img src="https://github.com/Joaoferreiras/sorteadorDeN-meros/blob/master/img/Captura%20de%20Tela%20(14).png?raw=true" />
+<img src="https://github.com/Joaoferreiras/sorteadorDeN-meros/blob/master/img/Captura%20de%20Tela%20(16).png?raw=true" />
